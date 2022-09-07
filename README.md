@@ -1,4 +1,4 @@
-### Programming languages (from most comfortable to least comfortable) and the year I started using it
+### Programming languages (from most comfortable to least comfortable) and the year I started using them
 - Java (2012)
 - Kotlin (2022)
 - Python (2016)
