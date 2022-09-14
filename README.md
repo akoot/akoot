@@ -7,4 +7,4 @@
 - HTML, JavaScript, CSS (2012) *(who needs anything else)*
 - C (2019)
 
-- **Evil Thougt Counter:** `3,201`
+- **Evil Thougt Counter:** `3,202`
